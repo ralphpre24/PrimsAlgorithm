@@ -1,4 +1,5 @@
-  // Class to represent a graph
+import java.util.LinkedList;
+// Class to represent a graph
    public class Graph {
         int vertices;
         LinkedList<Edge>[] adjacencyList;
